@@ -1,0 +1,19 @@
+// Place your key bindings in this file to override the defaults
+[
+    {
+        "key": "shift+[ShiftLeft] shift+[ShiftLeft]",
+        "command": "editor.action.insertSnippet",
+        "when": "editorTextFocus",
+        "args": {
+            "name": "DoubleShiftCppLeft"
+        },
+    },
+    {
+        "key": "ctrl+oem_102",
+        "command": "editor.action.insertSnippet",
+        "when": "editorTextFocus",
+        "args": {
+            "name": "Verticals"
+        },
+    },
+]
