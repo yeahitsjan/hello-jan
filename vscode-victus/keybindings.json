@@ -9,6 +9,14 @@
         },
     },
     {
+        "key": "shift+space",
+        "command": "editor.action.insertSnippet",
+        "when": "editorTextFocus",
+        "args": {
+            "name": "ShiftSpaceRight"
+        },
+    },
+    {
         "key": "ctrl+oem_102",
         "command": "editor.action.insertSnippet",
         "when": "editorTextFocus",

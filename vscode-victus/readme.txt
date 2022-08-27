@@ -3,4 +3,5 @@ The german keyboard layout is a bit strange having the <> | keys different to wh
 
 Shortcuts:
 [Shift] [Shift] => "<"
+[Shift] [Space] => ">"
 [Ctrl] [< / oem_102] => "|"

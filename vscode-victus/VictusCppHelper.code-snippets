@@ -13,6 +13,13 @@
 	    ],
 	    "description": "Victus has a strange keyboard layout"
 	},
+    "ShiftSpaceRight": {
+        "scope": "cpp,c",
+        "body": [
+            ">$0",
+        ],
+        "description": "Victus has a strange keyboard layout"
+    },
     "Verticals": {
 	    "scope": "cpp,c",
 	    "body": [
