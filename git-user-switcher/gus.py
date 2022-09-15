@@ -11,6 +11,8 @@ if (args.user == "tea"):
 elif (args.user == "github"):
     os.system("git config --global user.name #")
     os.system("git config --global user.email ###")
+elif (args.user == "current"):
+    None # just skip output to show current git user
 print("Git user is now:")
 os.system("git config --global user.name")
 os.system("git config --global user.email")
